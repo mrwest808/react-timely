@@ -1,0 +1,32 @@
+{
+  "name": "react-timely",
+  "version": "0.0.1",
+  "description": "React timepicker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrwest808/react-timely.git"
+  },
+  "keywords": [
+    "react",
+    "time",
+    "picker",
+    "timepicker",
+    "input"
+  ],
+  "author": "Johan West <hello@johanwest.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mrwest808/react-timely/issues"
+  },
+  "homepage": "https://github.com/mrwest808/react-timely#readme",
+  "peerDependencies": {
+    "react": "0.14.x"
+  },
+  "devDependencies": {
+    "react": "^0.14.3"
+  }
+}
